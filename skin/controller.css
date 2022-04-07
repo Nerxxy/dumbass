@@ -10,10 +10,6 @@
     background-image: url(bumper.png);
 }
 
-.ds4.white .touchpad.pressed {
-    background-image: url(touchpad.png);
-}
-
 .ds4.white .back, .ds4 .start {
     background-image: url(start.png);
 }
@@ -28,8 +24,4 @@
 
 .ds4.white .face {
     background-image: url(dpad.png);
-}
-
-.ds4 .meta.pressed {
-    background: url(meta.png);
 }
